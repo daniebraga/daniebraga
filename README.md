@@ -31,6 +31,13 @@
   
 </div>
 
-![Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=daniebraga&layout=compact)
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="170" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniebraga&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 
 ###
