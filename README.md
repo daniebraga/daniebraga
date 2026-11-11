@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">📚 Atualmente estou aprendendo C#<br>🎯 Obetivos: Aprender mais sobre tecnologia e criar projetos que possam impactar a vida das pessoas positivamente.</p>
+<p align="left">Obetivos: Aprender mais sobre tecnologia e criar projetos que possam impactar a vida das pessoas positivamente.</p>
 
 ###
 
